@@ -2,11 +2,6 @@
 
 Becoming in: `Full Stack` w=> Knowledge= [NodeJs  |  React-JavaScript  |  Java  |  Python  |  PHP  |  C#  |  SQLserver]
 
-GitStats | Git Language Top
--------------------- | --------------------
-![github stats](https://github-readme-stats.vercel.app/api?username=off1n3&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1n3)
-
-## Social Media
 <a href="facebook.com/#">
   <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" alt="facebook" width="25px"/>
 </a>
@@ -22,3 +17,9 @@ GitStats | Git Language Top
 <a href="t.me/GU35T">
 <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="telegram" width="25px"/>
 </a>
+
+
+
+GitStats             |           Git Language Top
+-------------------- | --------------------------
+![github stats](https://github-readme-stats.vercel.app/api?username=off1n3&show_icons=true&theme=default)      |      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1n3)
