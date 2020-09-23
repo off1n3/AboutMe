@@ -2,6 +2,10 @@
 
 Becoming in: `Full Stack` w=> Knowledge= [NodeJs  |  React-JavaScript  |  Java  |  Python  |  PHP  |  C#  |  SQLserver]
 
+![BadgeFollow](https://img.shields.io/github/followers/off1n3?style=for-the-badge)
+![BadgeFollowTwitter](https://img.shields.io/twitter/follow/davidfelizfranc?color=blue&style=for-the-badge)
+
+
 <a href="facebook.com/#">
   <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" alt="facebook" width="25px"/>
 </a>
