@@ -1,4 +1,4 @@
-# ¡Heya! EveryOne
+# ¡Heya! EveryOne :computer:
 
 Becoming in: `Full Stack` w=> Knowledge= [NodeJs  |  React-JavaScript  |  Java  |  Python  |  PHP  |  C#  |  SQLserver]
 
