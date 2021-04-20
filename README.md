@@ -4,9 +4,6 @@ Becoming in: `Full Stack` w=> Knowledge= [NodeJs  |  React-JavaScript  |  Java  
 
 Founder of [SoftDevs | Community](https://github.com/SoftDevsCommunity)
 
-[![BadgeFollow](https://img.shields.io/github/followers/off1n3?style=for-the-badge)](https://github.com/off1n3)
-[![BadgeFollowTwitter](https://img.shields.io/twitter/follow/davidfelizfranc?color=blue&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=davidfelizfranc)
-
 <hr>
 
 <details>
