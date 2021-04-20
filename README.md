@@ -7,6 +7,7 @@ Founder of [SoftDevs | Community](https://github.com/SoftDevsCommunity)
 [![BadgeFollow](https://img.shields.io/github/followers/off1n3?style=for-the-badge)](https://github.com/off1n3)
 [![BadgeFollowTwitter](https://img.shields.io/twitter/follow/davidfelizfranc?color=blue&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=davidfelizfranc)
 
+<hr>
 
 <details>
   <summary>ℹ️ Contact</summary>
@@ -31,4 +32,4 @@ Founder of [SoftDevs | Community](https://github.com/SoftDevsCommunity)
 
 GitStats             |           Git Language Top
 -------------------- | --------------------------
-![github stats](https://github-readme-stats.vercel.app/api?username=off1n3&show_icons=true&theme=default)      |      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1n3)
+![github stats](https://github-readme-stats.vercel.app/api?username=off1n3&show_icons=true&theme=dark)      |      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1n3&theme=dark)
