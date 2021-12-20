@@ -8,7 +8,7 @@ Becoming in: `Full Stack` w=> Learning= {
 [<code><img height="20" src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" alt="PHP" title="PHP" /></code>]
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" title="C#" /></code>]
 [<code><img height="20" src="https://iconape.com/wp-content/files/jy/81002/svg/microsoft-sql-server.svg" alt="SQL Server" title="SQL Server" /></code>]
-[<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="SQL Server" title="SQL Server" /></code>]
+[<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="SQL Server" title="JavaScript" /></code>]
 }
 
 [![founder](https://img.shields.io/badge/%F0%9F%91%91%20Founder-SoftDevs-blue?style=for-the-badge)](https://github.com/SoftDevsCommunity/)
